@@ -71,7 +71,7 @@ python src/interface.py
 
 ## Authors
 
-[Your Name/Team Members]
+Mohssine Azzizi/Mathieu Zilli
 
 
 
